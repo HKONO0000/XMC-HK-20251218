@@ -1,0 +1,62 @@
+﻿---
+ID: "e9a142e9-6f49-4be7-8180-a220e4e25f17"
+Parent: "9f2d96df-4d8a-4518-bc9b-a1e0d6b69aa8"
+Template: "10984083-2536-4d43-b239-e108e99565d0"
+Path: "/sitecore/content/skate-park/skate-park2/Home/Inventory/Headless 360"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{A22957B4-868C-494F-804F-580619D04E36}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{09BC8223-265C-4FF8-885B-615472036D6A}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "b64a853a-4f2d-4639-b952-a2cf7e5aa019"
+Languages:
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "0487429e-71fa-49a8-bb09-1f3c172bde48"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Headless 360
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251218T072834Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{5D573BDC-1ED1-4C7C-B600-FB226BC7B20C}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: New page
+    - ID: "573d3e2c-0fab-467c-b054-5a9f9a2e4c61"
+      Hint: Content
+      Value: |
+        Looking for a skateboard that can keep up with your shredding skills? The New page is here to take your skating to the next level.&nbsp; Whether you're hitting the skatepark or cruising the streets, the New page is the perfect board for you.<br />
+        <br />
+        Ready to take your skating to the next level? Order your New page today!
+    - ID: "84709a69-c12b-4a3f-ad32-b0ffe32e4850"
+      Hint: Title
+      Value: New page
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b219e39f-ea2a-4bab-8baa-2dac2cfc6533"
+    - ID: "99b06b12-4ca1-4db4-8ec8-8f8dfaa931e8"
+      Hint: SKU
+      Value: "{E9A142E9-6F49-4BE7-8180-A220E4E25F17}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\hkono@tech.softbank.co.jp
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251218T072940Z

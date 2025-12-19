@@ -1,0 +1,34 @@
+﻿---
+ID: "ff0525da-ebc1-4f97-af7e-88825f87eca0"
+Parent: "9f2d96df-4d8a-4518-bc9b-a1e0d6b69aa8"
+Template: "10984083-2536-4d43-b239-e108e99565d0"
+Path: "/sitecore/content/skate-park/skate-park2/Home/Inventory/SteveyT 1000X"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{03310492-275F-4163-B470-5049AD202BAE}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251218T051652Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: SteveyT 1000X
+    - ID: "84709a69-c12b-4a3f-ad32-b0ffe32e4850"
+      Hint: Title
+      Value: SteveyT 1000X
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "11f71deb-0dd3-4e04-8660-920a2c1ce912"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\hkono@tech.softbank.co.jp
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251218T051652Z

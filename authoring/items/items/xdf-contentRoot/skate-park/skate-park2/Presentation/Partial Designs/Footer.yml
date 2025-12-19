@@ -1,0 +1,107 @@
+﻿---
+ID: "15569186-228d-4a94-8e8b-5a58489a0d46"
+Parent: "eb30b1fa-40da-4b3e-a837-e682e1cae617"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: "/sitecore/content/skate-park/skate-park2/Presentation/Partial Designs/Footer"
+BranchID: "8204a950-cbaa-4d06-878b-11ced5ddc1ad"
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: footer
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{0EE95BDE-6F8F-4F36-9C9C-A4A93375AAD2}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "6abbf772-57bc-4cc2-b504-b8c28d527b93"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{F2BF8BFE-C925-47F7-A91E-0762B069720C}"
+          p:before="*"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="?Styles=%7b26B7931D-3929-44DC-A997-0556759B8BC1%7d%7c%7bA33EEA1C-D731-4488-9946-A8DD2A73A2CC%7d%7c%7b4905212B-C74A-468C-AABB-2A186024A0C3%7d%7c%7b861C791E-028F-41B5-8D1A-FDE1EB7CD049%7d%7c%7b3E454828-E389-448F-A64C-39CAD83913FA%7d%7c%7bB8883E2A-A111-4DD6-955A-6EDFBF607439%7d%7c%7b540F77A7-4307-4B67-A902-F7444B5BDBBE%7d%7c%7b5DD89D9D-3C88-4528-BEDA-772673920521%7d%7c%7b9C701C60-6A57-472E-89C0-B849A76FF6A9%7d%7c%7b95FF6785-83FE-41D8-9D96-FD2A7F61C56F%7d%7c%7bACC46A02-6FAB-481E-B755-8AD88495494B%7d%7c%7b7948BD42-174A-43D8-BE58-3A3973649166%7d%7c%7bAC49592D-2218-40D4-9EF1-8774FA57AB7C%7d%7c%7b4F8FBE05-C71B-46B5-8678-1D862FC1D174%7d%7c%7b0D46BF25-2F11-421D-9F3F-BBCFE503A379%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=1"
+          s:ph="headless-footer" />
+        <r
+          uid="{D601A4CA-53AF-4672-90A7-B1BB988A34BD}"
+          p:after="r[@uid='{F2BF8BFE-C925-47F7-A91E-0762B069720C}']"
+          s:ds="local:/Data/Address"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7bD6761AF9-47DD-457D-BE8B-BCC1450C27FE%7d&amp;FieldNames=%7bD6EDB8F6-FF03-4C01-9B20-638469391F0D%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b31A49E90-E4B4-4F04-A3C7-E15B6835990F%7d"
+          s:ph="/headless-footer/container-1" />
+        <r
+          uid="{4DC68BA9-30BE-40DF-927B-FA0914BE5712}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Contact info"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7bD6761AF9-47DD-457D-BE8B-BCC1450C27FE%7d&amp;FieldNames=%7bD6EDB8F6-FF03-4C01-9B20-638469391F0D%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b31A49E90-E4B4-4F04-A3C7-E15B6835990F%7d"
+          s:ph="/headless-footer/container-1" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{EDB00EAA-5ACA-4C4D-8B88-3195D992F980}"
+Languages:
+- Language: da
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "549b3412-f2b1-4703-b618-a713c05d7408"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251218T031521Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hkono@tech.softbank.co.jp
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hkono@tech.softbank.co.jp
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d1a54132-41b8-4f5a-b8b0-75a66c1479a6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\hkono@tech.softbank.co.jp
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251218T045858Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251218T031521Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hkono@tech.softbank.co.jp
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hkono@tech.softbank.co.jp
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "279bf21b-6dd5-4563-b724-608f70450144"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\hkono@tech.softbank.co.jp
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251218T031529Z

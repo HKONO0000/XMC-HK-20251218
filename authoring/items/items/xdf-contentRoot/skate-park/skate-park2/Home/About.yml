@@ -1,0 +1,190 @@
+﻿---
+ID: "343ae18a-5b6b-4073-b45b-791cde448967"
+Parent: "22eef281-dc66-4550-860c-b01700599327"
+Template: "0d1574a4-297d-400a-ada7-f7fca57bbc9d"
+Path: "/sitecore/content/skate-park/skate-park2/Home/About"
+BranchID: "aa757cc9-f2da-4f78-a33d-9d382d5fcf92"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{67AF1560-12D4-4931-8888-61468BE2C36C}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "be9d2842-bd7c-4512-9aea-a1fa9e4595e5"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{657BD8D7-8534-4604-B109-B8BB378D586E}"
+          p:before="*"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="?Styles=%7b4905212B-C74A-468C-AABB-2A186024A0C3%7d%7c%7b861C791E-028F-41B5-8D1A-FDE1EB7CD049%7d%7c%7b3E454828-E389-448F-A64C-39CAD83913FA%7d%7c%7bB8883E2A-A111-4DD6-955A-6EDFBF607439%7d%7c%7b540F77A7-4307-4B67-A902-F7444B5BDBBE%7d%7c%7b5DD89D9D-3C88-4528-BEDA-772673920521%7d%7c%7b9C701C60-6A57-472E-89C0-B849A76FF6A9%7d%7c%7b95FF6785-83FE-41D8-9D96-FD2A7F61C56F%7d%7c%7bACC46A02-6FAB-481E-B755-8AD88495494B%7d%7c%7b7948BD42-174A-43D8-BE58-3A3973649166%7d%7c%7bAC49592D-2218-40D4-9EF1-8774FA57AB7C%7d%7c%7b4F8FBE05-C71B-46B5-8678-1D862FC1D174%7d%7c%7b0D46BF25-2F11-421D-9F3F-BBCFE503A379%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{F282D8E0-1F78-4425-A07B-DE94C3D5FC83}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Text 1"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b959FDFBB-4691-4A17-816F-7A5330B8216A%7d%7c%7b175CB6DA-CF89-4D56-888C-EB79F514D12F%7d%7c%7b7DF615F7-0A53-42E1-A164-2B36D6126314%7d&amp;FieldNames=%7bD6EDB8F6-FF03-4C01-9B20-638469391F0D%7d"
+          s:ph="/headless-main/container-1" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{B8E694EC-3576-4CC6-8628-AEE286A9AB38}"
+Languages:
+- Language: da
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "f2ec1963-ec2c-4637-a777-c44d60e4317a"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{657BD8D7-8534-4604-B109-B8BB378D586E}"
+              s:par="Styles=%7B4905212B-C74A-468C-AABB-2A186024A0C3%7D%7C%7B861C791E-028F-41B5-8D1A-FDE1EB7CD049%7D%7C%7B3E454828-E389-448F-A64C-39CAD83913FA%7D%7C%7BB8883E2A-A111-4DD6-955A-6EDFBF607439%7D%7C%7B540F77A7-4307-4B67-A902-F7444B5BDBBE%7D%7C%7B5DD89D9D-3C88-4528-BEDA-772673920521%7D%7C%7B9C701C60-6A57-472E-89C0-B849A76FF6A9%7D%7C%7B95FF6785-83FE-41D8-9D96-FD2A7F61C56F%7D%7C%7BACC46A02-6FAB-481E-B755-8AD88495494B%7D%7C%7B7948BD42-174A-43D8-BE58-3A3973649166%7D%7C%7BAC49592D-2218-40D4-9EF1-8774FA57AB7C%7D%7C%7B4F8FBE05-C71B-46B5-8678-1D862FC1D174%7D%7C%7B0D46BF25-2F11-421D-9F3F-BBCFE503A379%7D&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=1" />
+            <r
+              uid="{F282D8E0-1F78-4425-A07B-DE94C3D5FC83}">
+              <p:d />
+            </r>
+            <r
+              uid="{B661B1B8-6DC9-4DC4-A282-ACAF70F9B1C1}"
+              p:after="r[@uid='{657BD8D7-8534-4604-B109-B8BB378D586E}']"
+              s:id="{3836D951-BB14-43AC-9231-649B7F245DC5}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BE8034C9D-85AF-46C2-8DEC-2C903FD3F9AD%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/container-1" />
+            <r
+              uid="{16F3F100-73B8-494F-94B5-309CD98DBE72}"
+              p:after="r[@uid='{B661B1B8-6DC9-4DC4-A282-ACAF70F9B1C1}']"
+              s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D%7C%7B81225C08-5783-4BED-A86A-AB2B87198885%7D&amp;FieldNames=%7BD6B46234-0062-45B8-A074-41EAD68C4265%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="/headless-main/container-1" />
+            <r
+              uid="{E76F7339-44B1-4234-985C-3796CED9F028}"
+              p:after="*[1=2]"
+              s:ds="local:/Data/Image 1"
+              s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D%7C%7B81225C08-5783-4BED-A86A-AB2B87198885%7D&amp;FieldNames=%7B83A01E76-BF7B-43F7-B85A-0652CC776DAD%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="/headless-main/container-1" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251218T031520Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: About
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hkono@tech.softbank.co.jp
+    - ID: "573d3e2c-0fab-467c-b054-5a9f9a2e4c61"
+      Hint: Content
+      Value: |
+        <p style="-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:&quot;Open Sans&quot;;font-feature-settings:inherit;font-kerning:inherit;font-language-override:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:14px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:1.94118;margin-block:0px 3.4rem;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:center;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;">Welcome to Skate Park by the Adventure Company. We supply skateboards, parts, and accessories to skate shops and boarders around the world. We are committed to providing our customers with high-quality products at competitive prices.</p><p style="-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:&quot;Open Sans&quot;;font-feature-settings:inherit;font-kerning:inherit;font-language-override:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:14px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:1.94118;margin-block:0px 3.4rem;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:center;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;">We offer a wide variety of products, including decks, wheels, trucks, bearings, and hardware. We also carry a variety of accessories, such as helmets, pads, and clothing.</p><p style="-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:&quot;Open Sans&quot;;font-feature-settings:inherit;font-kerning:inherit;font-language-override:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:14px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:1.94118;margin-block:0px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:center;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;">We are passionate about skateboarding and believe that everyone should have the opportunity to experience the joy of skating.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hkono@tech.softbank.co.jp
+    - ID: "84709a69-c12b-4a3f-ad32-b0ffe32e4850"
+      Hint: Title
+      Value: Skate Park by the Adventure Company
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4c8e4fc1-311d-4a32-9513-fab7f27d6323"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\hkono@tech.softbank.co.jp
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251218T045847Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{657BD8D7-8534-4604-B109-B8BB378D586E}"
+              s:par="Styles=%7B4905212B-C74A-468C-AABB-2A186024A0C3%7D%7C%7B861C791E-028F-41B5-8D1A-FDE1EB7CD049%7D%7C%7B3E454828-E389-448F-A64C-39CAD83913FA%7D%7C%7BB8883E2A-A111-4DD6-955A-6EDFBF607439%7D%7C%7B540F77A7-4307-4B67-A902-F7444B5BDBBE%7D%7C%7B5DD89D9D-3C88-4528-BEDA-772673920521%7D%7C%7B9C701C60-6A57-472E-89C0-B849A76FF6A9%7D%7C%7B95FF6785-83FE-41D8-9D96-FD2A7F61C56F%7D%7C%7BACC46A02-6FAB-481E-B755-8AD88495494B%7D%7C%7B7948BD42-174A-43D8-BE58-3A3973649166%7D%7C%7BAC49592D-2218-40D4-9EF1-8774FA57AB7C%7D%7C%7B4F8FBE05-C71B-46B5-8678-1D862FC1D174%7D%7C%7B0D46BF25-2F11-421D-9F3F-BBCFE503A379%7D&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=1" />
+            <r
+              uid="{F282D8E0-1F78-4425-A07B-DE94C3D5FC83}">
+              <p:d />
+            </r>
+            <r
+              uid="{B661B1B8-6DC9-4DC4-A282-ACAF70F9B1C1}"
+              p:after="r[@uid='{657BD8D7-8534-4604-B109-B8BB378D586E}']"
+              s:id="{3836D951-BB14-43AC-9231-649B7F245DC5}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BE8034C9D-85AF-46C2-8DEC-2C903FD3F9AD%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/container-1" />
+            <r
+              uid="{16F3F100-73B8-494F-94B5-309CD98DBE72}"
+              p:after="r[@uid='{B661B1B8-6DC9-4DC4-A282-ACAF70F9B1C1}']"
+              s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D%7C%7B81225C08-5783-4BED-A86A-AB2B87198885%7D&amp;FieldNames=%7BD6B46234-0062-45B8-A074-41EAD68C4265%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="/headless-main/container-1" />
+            <r
+              uid="{E76F7339-44B1-4234-985C-3796CED9F028}"
+              p:after="*[1=2]"
+              s:ds="local:/Data/Image 1"
+              s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D%7C%7B81225C08-5783-4BED-A86A-AB2B87198885%7D&amp;FieldNames=%7B83A01E76-BF7B-43F7-B85A-0652CC776DAD%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="/headless-main/container-1" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251218T031520Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: About
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hkono@tech.softbank.co.jp
+    - ID: "573d3e2c-0fab-467c-b054-5a9f9a2e4c61"
+      Hint: Content
+      Value: |
+        <p style="-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:&quot;Open Sans&quot;;font-feature-settings:inherit;font-kerning:inherit;font-language-override:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:14px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:1.94118;margin-block:0px 3.4rem;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:center;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;">Welcome to Skate Park by the Adventure Company. We supply skateboards, parts, and accessories to skate shops and boarders around the world. We are committed to providing our customers with high-quality products at competitive prices.</p><p style="-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:&quot;Open Sans&quot;;font-feature-settings:inherit;font-kerning:inherit;font-language-override:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:14px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:1.94118;margin-block:0px 3.4rem;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:center;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;">We offer a wide variety of products, including decks, wheels, trucks, bearings, and hardware. We also carry a variety of accessories, such as helmets, pads, and clothing.</p><p style="-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:&quot;Open Sans&quot;;font-feature-settings:inherit;font-kerning:inherit;font-language-override:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:14px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:1.94118;margin-block:0px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:center;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;">We are passionate about skateboarding and believe that everyone should have the opportunity to experience the joy of skating.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hkono@tech.softbank.co.jp
+    - ID: "84709a69-c12b-4a3f-ad32-b0ffe32e4850"
+      Hint: Title
+      Value: Skate Park by the Adventure Company
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3eb22f03-149f-49bb-857f-9ab76aa615c9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\hkono@tech.softbank.co.jp
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251218T032356Z

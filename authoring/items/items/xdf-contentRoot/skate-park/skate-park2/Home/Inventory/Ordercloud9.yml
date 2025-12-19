@@ -1,0 +1,41 @@
+﻿---
+ID: "bb9683c4-a1a7-4031-b324-7579bf7b41f9"
+Parent: "9f2d96df-4d8a-4518-bc9b-a1e0d6b69aa8"
+Template: "10984083-2536-4d43-b239-e108e99565d0"
+Path: "/sitecore/content/skate-park/skate-park2/Home/Inventory/Ordercloud9"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{3EC89377-249F-4CA1-82E2-32B4B340D40B}" />
+Languages:
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "1fec74f0-e65b-4671-bf5e-c36e76536199"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Ordercloud9
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251218T051541Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: New page
+    - ID: "84709a69-c12b-4a3f-ad32-b0ffe32e4850"
+      Hint: Title
+      Value: New page
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "af5a3191-6bb3-4be4-a061-74203a683fe4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\hkono@tech.softbank.co.jp
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251218T051709Z

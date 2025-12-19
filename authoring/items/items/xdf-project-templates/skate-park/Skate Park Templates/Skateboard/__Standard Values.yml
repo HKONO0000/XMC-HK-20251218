@@ -1,0 +1,66 @@
+﻿---
+ID: "46554934-5df4-44d4-ae23-96abaf6c182e"
+Parent: "10984083-2536-4d43-b239-e108e99565d0"
+Template: "10984083-2536-4d43-b239-e108e99565d0"
+Path: "/sitecore/templates/Project/skate-park/Skate Park Templates/Skateboard/__Standard Values"
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251218T050156Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hkono@tech.softbank.co.jp
+    - ID: "573d3e2c-0fab-467c-b054-5a9f9a2e4c61"
+      Hint: Content
+      Value: |
+        Looking for a skateboard that can keep up with your shredding skills? The $name is here to take your skating to the next level.&nbsp; Whether you're hitting the skatepark or cruising the streets, the $name is the perfect board for you.<br />
+        <br />
+        Ready to take your skating to the next level? Order your $name today!
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hkono@tech.softbank.co.jp
+    - ID: "623be8db-d9fb-40cc-b377-26c20e995df6"
+      Hint: Material
+      Value: Bamboo
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "47eee3af-c8a2-41b0-b6ce-07763a62de06"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\hkono@tech.softbank.co.jp
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251218T050850Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251218T060447Z
+    - ID: "573d3e2c-0fab-467c-b054-5a9f9a2e4c61"
+      Hint: Content
+      Value: |
+        Looking for a skateboard that can keep up with your shredding skills? The $name is here to take your skating to the next level.&nbsp; Whether you're hitting the skatepark or cruising the streets, the $name is the perfect board for you.<br />
+        <br />
+        Ready to take your skating to the next level? Order your $name today!
+    - ID: "623be8db-d9fb-40cc-b377-26c20e995df6"
+      Hint: Material
+      Value: Bamboo
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d10392a7-11c9-4514-a989-5a2a198663c1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\hkono@tech.softbank.co.jp
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251218T061215Z

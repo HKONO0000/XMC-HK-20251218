@@ -1,0 +1,83 @@
+﻿---
+ID: "8b00c84b-34ab-480a-8c94-455cb2090dfd"
+Parent: "a83f0d80-c086-4c7c-ba14-78e8060042e1"
+Template: "a83f0d80-c086-4c7c-ba14-78e8060042e1"
+Path: "/sitecore/templates/Project/skate-park/Skate Park Templates/_Base Product/__Standard Values"
+SharedFields:
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{A22957B4-868C-494F-804F-580619D04E36}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "00c9dc8e-ba8c-4952-8e18-30496532b2cc"
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251218T050418Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hkono@tech.softbank.co.jp
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hkono@tech.softbank.co.jp
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "300f9dae-752b-4b0a-9c69-9d107a18afa9"
+    - ID: "9519a647-8a7e-468b-8076-c9827ff05e65"
+      Hint: Highlights
+      Value: |
+        <span style="color: #000000; background-color: #f0f0f0;">Whether you&rsquo;re a beginner or a pro, this will work well for you.</span>
+    - ID: "99b06b12-4ca1-4db4-8ec8-8f8dfaa931e8"
+      Hint: SKU
+      Value: $id
+    - ID: "b8ac1c37-6713-4c94-a0c8-c27ab86959fe"
+      Hint: Price
+      Value: $100
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\hkono@tech.softbank.co.jp
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251218T050459Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251218T060523Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\hkono@tech.softbank.co.jp
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hkono@tech.softbank.co.jp
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0e17eb21-34f3-4bbf-bb9c-385d6505c03c"
+    - ID: "9519a647-8a7e-468b-8076-c9827ff05e65"
+      Hint: Highlights
+      Value: |
+        <span style="color: #000000; background-color: #f0f0f0;">Whether you&rsquo;re a beginner or a pro, this will work well for you.</span>
+    - ID: "99b06b12-4ca1-4db4-8ec8-8f8dfaa931e8"
+      Hint: SKU
+      Value: $id
+    - ID: "b8ac1c37-6713-4c94-a0c8-c27ab86959fe"
+      Hint: Price
+      Value: $100
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\hkono@tech.softbank.co.jp
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251218T072758Z
